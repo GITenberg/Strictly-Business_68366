@@ -1,0 +1,25 @@
+_repo: Strictly-Business_68366
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, F. Morton (Francis Morton)
+    alias: Howard, Francis Morton
+    birthdate: 1880
+    gutenberg_agent_id: '54744'
+    url: http://www.gutenberg.org/2009/agents/54744
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68366'
+  lccn: '23008242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: '"Strictly Business"'
+url: http://www.gutenberg.org/ebooks/68366
